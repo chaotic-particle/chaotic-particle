@@ -1,4 +1,4 @@
-Hi! I am Ankur Sinha, and I am currently pursuing an MS(Research) in Astronomy at IIT Indore.
+Hi! I am Ankur Sinha, currently pursuing an MS(Research) in Astronomy at IIT Indore.
 
 Currently, I am working in Radio Astronomy, specifically on radio galaxies.
 
